@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/Programming/Python.png" width="300" alt="Python Logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120" alt="Python Logo">
 </p>
+
 # 🐍 Python Algorithms & Interview Prep
 
 Welcome to this repository! This collection is designed to help you master Python algorithms and prepare for technical interviews, with a specific focus on progressive learning paths (like EPAM's interview process).
