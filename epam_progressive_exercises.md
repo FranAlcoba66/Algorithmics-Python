@@ -11,6 +11,7 @@ sales = [
     {"product": "A", "price": 15},
 ]
 
+
 # TODO: Filtra solo las ventas del producto "A"
 # Resultado esperado: [{"producto": "A", "precio": 10}, {"producto": "A", "precio": 15}]
 ```
